@@ -15,8 +15,8 @@ h1{
 p {
 }
     text-align: center;
-em strong {}
-p{
+em strong {
+    color:aquamarine 
     text-align: center;
 }
 #missao{
@@ -30,4 +30,13 @@ p{
 }
 em strong{
     color:red
+}
+h2{
+    text-align: center;
+}
+ul{
+    display: inline blok;
+    vertical-align: top;
+    width:20%;
+    margin-right: 15%;
 }
